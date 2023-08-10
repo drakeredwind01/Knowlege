@@ -11,12 +11,25 @@
 https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival.md
 ## for when your sick
 ### stuffy nose
-![](NASAL_SPRAY_PLUS_1_FL._OZ._1_feature_____72817701051F.jpg)
+
+
+<p align="center"><img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL_SPRAY_PLUS_1_FL._OZ._1_feature_____72817701051F.jpg" width="200" height="240">
+<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%202%20front%20%20%20%20%2072817701051BoxF.jpg" width="200" height="240">
+<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%203%20right%20%20%20%20%2072817701051R.jpg" width="200" height="240">
+<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%204%20back%20%20%20%20%2072817701051B.jpg" width="200" height="240">
+<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%205%20left%20%20%20%20%2072817701051L.jpg" width="200" height="240">
+</p>
+
+
 ### sore Throat
 
 
+<!-- These are my private notes! You can't see these! 
+^ from https://github.com/drakeredwind01/how-to-GitHub
+![NASAL_SPRAY_PLUS_1_FL._OZ._1_feature_____72817701051F.jpg](Everyday_Survival_media/NASAL_SPRAY_PLUS_1_FL._OZ._1_feature_____72817701051F.jpg)
 
+<img src="" width="200" height="240">
 
-
+-->
 
 
