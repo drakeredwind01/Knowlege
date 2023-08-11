@@ -13,11 +13,11 @@ https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyda
 ### stuffy nose
 
 
-<p align="center"><img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL_SPRAY_PLUS_1_FL._OZ._1_feature_____72817701051F.jpg" width="200" height="240">
-<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%202%20front%20%20%20%20%2072817701051BoxF.jpg" width="200" height="240">
-<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%203%20right%20%20%20%20%2072817701051R.jpg" width="200" height="240">
-<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%204%20back%20%20%20%20%2072817701051B.jpg" width="200" height="240">
-<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%205%20left%20%20%20%20%2072817701051L.jpg" width="200" height="240">
+<p align="center"><img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL_SPRAY_PLUS_1_FL._OZ._1_feature_____72817701051F.jpg"height="350">
+<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%205%20left%20%20%20%20%2072817701051L.jpg"height="350">
+<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%202%20front%20%20%20%20%2072817701051BoxF.jpg"height="350">
+<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%203%20right%20%20%20%20%2072817701051R.jpg"height="350">
+<img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%204%20back%20%20%20%20%2072817701051B.jpg"height="350">
 </p>
 
 
