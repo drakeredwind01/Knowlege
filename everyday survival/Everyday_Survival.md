@@ -11,7 +11,7 @@
 https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival.md
 ## for when your sick
 ### stuffy nose
-
+#### NutriBiotic Nasal Spray Plus
 
 <p align="center"><img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL_SPRAY_PLUS_1_FL._OZ._1_feature_____72817701051F.jpg"height="350">
 <img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%205%20left%20%20%20%20%2072817701051L.jpg"height="350">
