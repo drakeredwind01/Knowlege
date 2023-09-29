@@ -11,7 +11,7 @@
 https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival.md
 ## for when your sick
 ### stuffy nose
-
+#### NutriBiotic Nasal Spray Plus
 
 <p align="center"><img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL_SPRAY_PLUS_1_FL._OZ._1_feature_____72817701051F.jpg"height="350">
 <img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%205%20left%20%20%20%20%2072817701051L.jpg"height="350">
@@ -22,6 +22,7 @@ https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyda
 
 
 ### sore Throat
+#### Herbal Mist Throat Spray Organic 2 Fl Oz By Zand
 <p align="center"><img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/Herbal Mist Throat Spray Organic 2 Fl Oz By Zand 69886_389c8025-c4e1-4b49-b7e3-3c2645eec75d_1024x1024.png"height="350">
 
 <!-- These are my private notes! You can't see these! 
