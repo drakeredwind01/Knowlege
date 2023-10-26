@@ -1,3 +1,8 @@
+![](useful_sites_media\python_challenge_logo.jpg)
+> python challenge
+>  
+> http://www.pythonchallenge.com/
+
 ![jupyter_lite_img.png](useful_sites_media%2Fjupyter_lite_img.png)
 > in browser python jupyter notebooks no install required
 > 
@@ -8,10 +13,8 @@
 > 
 > https://github.com/ben-denham/labtech
 
-
-![](useful_sites_media\python_challenge_logo.jpg)
-> python challenge
->  
-> http://www.pythonchallenge.com/
-
+![savvytime.com.png](useful_sites_media%2Fsavvytime.com.png)
+> https://savvytime.com/converter/pst-to-nzst-rwanda-kigali-cdt
+> 
+> 
 
