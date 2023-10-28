@@ -1,0 +1,29 @@
+
+| dB  | equivalient                         |
+|-----|-------------------------------------|
+| 30  | dB whisper                          |[^hearing_loss]
+| 60  | normal conversation [^hearing_loss] |[^hearing_loss]
+| 95  | motorcycle engine                   |
+|     |                                     |
+|     |                                     |
+|     |                                     |
+| 70  | start damage over time              |
+| 120 | immediate damage                    |
+|     |                                     |
+
+A whisper is about 30 dB, 
+normal conversation is about 60 dB, and 
+a motorcycle engine running is about 95 dB. 
+Noise above 70 dB over a prolonged period of time may start to damage your hearing. 
+Loud noise above 120 dB can cause immediate harm to your ears.
+https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=A%20whisper%20is%20about%2030,immediate%20harm%20to%20your%20ears.
+
+
+
+[^hearing_loss]: https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:text=A%20whisper%20is%20about%2030,immediate%20harm%20to%20your%20ears.
+
+
+
+
+
+
