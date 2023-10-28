@@ -1,15 +1,15 @@
 
-| dB  | equivalient                         |
-|-----|-------------------------------------|
-| 30  | dB whisper                          |[^hearing_loss]
-| 60  | normal conversation [^hearing_loss] |[^hearing_loss]
-| 95  | motorcycle engine                   |
-|     |                                     |
-|     |                                     |
-|     |                                     |
-| 70  | start damage over time              |
-| 120 | immediate damage                    |
-|     |                                     |
+| dB  | equivalient                            |
+|-----|----------------------------------------|
+| 30  | dB whisper             [^hearing_loss] |
+| 60  | normal conversation    [^hearing_loss] |
+| 95  | motorcycle engine      [^hearing_loss] |
+|     |                                        |
+|     |                                        |
+|     |                                        |
+| 70  | start damage over time [^hearing_loss] |
+| 120 | immediate damage       [^hearing_loss] |
+|     |                                        |
 
 A whisper is about 30 dB, 
 normal conversation is about 60 dB, and 
@@ -24,6 +24,55 @@ https://www.cdc.gov/nceh/hearing_loss/what_noises_cause_hearing_loss.html#:~:tex
 
 
 
+adwa
+fwa
+ef
+awe
+aw
+ef
+waf
+w
+fw
+f
+waf
+faw
+fwaw
+
+
+waf
+aewf
+
+
+waef
+wafa
+efw
+aefw
+waf
+fwae
+waef
+waef
+
+
+
+waf
+e
+fewa
+wa
+
+wea
+
+
+ewaf
+
+eafw
+
+
+ewf
+aefw
+
+a
+ef
+aw
 
 
 
