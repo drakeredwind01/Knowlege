@@ -1,7 +1,11 @@
 # Knowlege
 everyday survival
 
-![dB_examples.png](sound%2FdB_examples.png)
+[cybersecurity](cybersecurity%2Fcybersecurity.md)
+
+[11 ways to become a SOC Analyst (FREE training)](cybersecurity%2Fcybersecurity.md)
+
+<img src='sound/dB_examples.png' width='25%'>|[sound.md](sound%2Fsound.md)
 
 TODO:
 
