@@ -1,3 +1,13 @@
+
+
+
+
+![artofmanliness.com.png](useful_sites_media%2Fartofmanliness.com.png)
+> the art of manliness
+> 
+> https://www.artofmanliness.com
+
+
 ![](useful_sites_media\python_challenge_logo.jpg)
 > python challenge
 >  
