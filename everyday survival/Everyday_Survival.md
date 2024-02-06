@@ -12,7 +12,7 @@ https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyda
 ## for when your sick
 ### stuffy nose
 #### NutriBiotic Nasal Spray Plus
-
+https://drakeredwind01.myshopify.com/products/1pc-nasal-spray-adult-children-nasal-congestion-nasal-discomfort-sneezing-spray-convenient-measured-dose-pump-nasal-lubricant-1-05-fl-oz-30ml
 <p align="center"><img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL_SPRAY_PLUS_1_FL._OZ._1_feature_____72817701051F.jpg"height="350">
 <img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%205%20left%20%20%20%20%2072817701051L.jpg"height="350">
 <img src="https://github.com/drakeredwind01/Knowlege/blob/main/everyday%20survival/Everyday_Survival_media/NASAL%20SPRAY%20PLUS%201%20FL.%20OZ.%202%20front%20%20%20%20%2072817701051BoxF.jpg"height="350">
