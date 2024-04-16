@@ -1,0 +1,94 @@
+History of the Jews in America, from the period of the discovery of the new world to the present time
+by Wiernik, Peter, 1865-1936
+
+Publication date 1912
+Topics Jews, Jews, Jews
+Publisher New York Jewish Press Pub. Co
+Collection robarts; toronto
+Contributor Robarts - University of Toronto
+Language English
+52
+Addeddate 2010-08-05 20:36:09
+Bookplateleaf 0004
+Call number AAD-6508
+Camera Canon 5D
+External-identifier urn:oclc:record:1046496744[WorldCat (this item)]
+Foldoutcount 0
+Identifier historyofjewsina00wier
+Identifier-ark ark:/13960/t0rr2kw8h
+Ocr_converted abbyy-to-hocr 1.1.37
+Ocr_module_version 0.0.21
+Openlibrary_edition OL24356333M
+Openlibrary_work OL15369895W
+
+SHOW MORE
+Full catalog record MARCXML
+
+
+
+
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<record xmlns="http://www.loc.gov/MARC21/slim">
+<leader>00686cam a22002170 4500</leader>
+<controlfield tag="001">historyofjewsina00wier</controlfield>
+<controlfield tag="003">CaSfIA</controlfield>
+<controlfield tag="005">20231017173639.0</controlfield>
+<controlfield tag="006">m o d</controlfield>
+<controlfield tag="007">cr||||||||||||</controlfield>
+<controlfield tag="008">660101s1912 nyu o eng x</controlfield>
+<datafield tag="035" ind1=" " ind2=" ">
+<subfield code="a">(OCoLC)1046496744</subfield>
+</datafield>
+<datafield tag="040" ind1=" " ind2=" ">
+<subfield code="a">OTU</subfield>
+<subfield code="b">ENG</subfield>
+<subfield code="d">CaSfIA</subfield>
+</datafield>
+<datafield tag="050" ind1=" " ind2="4">
+<subfield code="a">E29 J5</subfield>
+<subfield code="b">W6</subfield>
+</datafield>
+<datafield tag="100" ind1="1" ind2="0">
+<subfield code="a">Wiernik, Peter,</subfield>
+<subfield code="d">1865-1936</subfield>
+</datafield>
+<datafield tag="245" ind1="1" ind2="0">
+<subfield code="a">History of the Jews in America, from the period of the discovery of the new world to the present time.</subfield>
+</datafield>
+<datafield tag="260" ind1="0" ind2=" ">
+<subfield code="a">New York</subfield>
+<subfield code="b">Jewish Press Pub. Co.</subfield>
+<subfield code="c">1912</subfield>
+</datafield>
+<datafield tag="300" ind1=" " ind2=" ">
+<subfield code="a">1 online resource (449pages)</subfield>
+</datafield>
+<datafield tag="596" ind1=" " ind2=" ">
+<subfield code="a">52</subfield>
+</datafield>
+<datafield tag="650" ind1=" " ind2="0">
+<subfield code="a">Jews</subfield>
+<subfield code="z">United States</subfield>
+</datafield>
+<datafield tag="650" ind1=" " ind2="0">
+<subfield code="a">Jews</subfield>
+<subfield code="z">America</subfield>
+</datafield>
+<datafield tag="650" ind1=" " ind2="0">
+<subfield code="a">Jews</subfield>
+<subfield code="x">History</subfield>
+<subfield code="y">70-</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://archive.org/details/historyofjewsina00wier</subfield>
+<subfield code="z">Free eBook from the Internet Archive</subfield>
+</datafield>
+<datafield tag="856" ind1="4" ind2="0">
+<subfield code="u">https://openlibrary.org/books/OL24356333M</subfield>
+<subfield code="z">Additional information and access via Open Library</subfield>
+</datafield>
+<datafield tag="955" ind1=" " ind2=" ">
+<subfield code="q">historyofjewsina00wier</subfield>
+<subfield code="b">ark:/13960/t0rr2kw8h</subfield>
+</datafield>
+</record>
