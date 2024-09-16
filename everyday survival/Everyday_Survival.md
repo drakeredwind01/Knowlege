@@ -36,4 +36,5 @@ https://drakeredwind01.myshopify.com/products/1pc-nasal-spray-adult-children-nas
 ### Bronchitis
 #### ridgecrest herbals clearlungs extra strength 
 ![Ridgecrest Herbals ClearLungs Extra Strength Vegan Capsule.png](Everyday_Survival_media%2FRidgecrest%20Herbals%20ClearLungs%20Extra%20Strength%20Vegan%20Capsule.png)
+
 horehound eighth teaspoon cayenne pepper with honey and lemon and drink with warm water
